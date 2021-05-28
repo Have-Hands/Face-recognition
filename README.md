@@ -18,5 +18,8 @@ pip install baidu-aip
 
 # 创新优点
 我们的智能相册可以筛选出以指定人为**主体**的照片
+![image](https://user-images.githubusercontent.com/73021377/119964978-55e95f00-bfdc-11eb-99bd-b44316fee1ca.png)
+![image](https://user-images.githubusercontent.com/73021377/119965322-b6789c00-bfdc-11eb-9f3c-9789d628c1ad.png)
+
 
 # 2021.5.28 创立了这个仓库，并上传了相关的代码。
