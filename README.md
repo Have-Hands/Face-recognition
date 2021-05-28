@@ -13,8 +13,8 @@ pip install baidu-aip
 
 可以在face_recognition.py文件中更改
 
-    options['max_face_num'] = 4      # 最大识别人脸的个数（不超过10个人脸）
-    options['match_threshold'] = 60  # 置信度
+    options['max_face_num']       # 最大识别人脸的个数（不超过10个人脸）
+    options['match_threshold']    # 置信度
 
 # 创新优点
 我们的智能相册可以筛选出以指定人为**主体**的照片
